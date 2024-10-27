@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675970796238",
+    "project_id": "jenkins-distribution",
+    "storage_bucket": "jenkins-distribution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675970796238:android:d64ced3e3f110ac1721e9f",
+        "android_client_info": {
+          "package_name": "com.example.jenkins_distribution"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw9X4A-edCklcTTrIoi2CUD-8Ubr7R62I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
