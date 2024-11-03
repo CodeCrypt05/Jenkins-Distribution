@@ -12,7 +12,7 @@ plugins {
 
 android {
     namespace = "com.example.jenkins_distribution"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = 33
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
